@@ -14,6 +14,9 @@ class ViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        title = "Storm Viewer"
+        navigationController?.navigationBar.prefersLargeTitles = true
+        
         //создаем константу - файловый менеджер
         let fm = FileManager.default
         //создаем константу - путь к ресурсам нашего приложения
@@ -31,6 +34,14 @@ class ViewController: UITableViewController {
         print(pictures)
     }
 
+    //событие нажатие на ячейку
+    override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        if let vc = storyboard?.instantiateViewController(withIdentifier: "Detail") as? DetailViewController {
+            vc.selectedImage = pictures[indexPath.row]
+            navigationController?.pushViewController(vc, animated: true)
+        }
+    }
+    
     //задаем количество строк (ячеек)
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return pictures.count
