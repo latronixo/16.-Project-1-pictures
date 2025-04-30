@@ -20,7 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		6B52C2692DB3FEDD00E97B65 /* 16. Setting up (UIKit).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "16. Setting up (UIKit).app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6B52C2692DB3FEDD00E97B65 /* 16.Project 1 (pictures).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "16.Project 1 (pictures).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B52C2962DB3FF0700E97B65 /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
 		6B52C2972DB3FF0700E97B65 /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
 		6B52C2982DB3FF0700E97B65 /* nssl0041.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0041.jpg; sourceTree = "<group>"; };
@@ -34,22 +34,22 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		6B52C27B2DB3FEE200E97B65 /* Exceptions for "16. Setting up (UIKit)" folder in "16. Setting up (UIKit)" target */ = {
+		6B52C27B2DB3FEE200E97B65 /* Exceptions for "16.Project 1 (pictures)" folder in "16.Project 1 (pictures)" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 6B52C2682DB3FEDD00E97B65 /* 16. Setting up (UIKit) */;
+			target = 6B52C2682DB3FEDD00E97B65 /* 16.Project 1 (pictures) */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		6B52C26B2DB3FEDD00E97B65 /* 16. Setting up (UIKit) */ = {
+		6B52C26B2DB3FEDD00E97B65 /* 16.Project 1 (pictures) */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				6B52C27B2DB3FEE200E97B65 /* Exceptions for "16. Setting up (UIKit)" folder in "16. Setting up (UIKit)" target */,
+				6B52C27B2DB3FEE200E97B65 /* Exceptions for "16.Project 1 (pictures)" folder in "16.Project 1 (pictures)" target */,
 			);
-			path = "16. Setting up (UIKit)";
+			path = "16.Project 1 (pictures)";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -69,7 +69,7 @@
 			isa = PBXGroup;
 			children = (
 				6B52C2A02DB3FF0700E97B65 /* Content */,
-				6B52C26B2DB3FEDD00E97B65 /* 16. Setting up (UIKit) */,
+				6B52C26B2DB3FEDD00E97B65 /* 16.Project 1 (pictures) */,
 				6B52C26A2DB3FEDD00E97B65 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -77,7 +77,7 @@
 		6B52C26A2DB3FEDD00E97B65 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6B52C2692DB3FEDD00E97B65 /* 16. Setting up (UIKit).app */,
+				6B52C2692DB3FEDD00E97B65 /* 16.Project 1 (pictures).app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -102,9 +102,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6B52C2682DB3FEDD00E97B65 /* 16. Setting up (UIKit) */ = {
+		6B52C2682DB3FEDD00E97B65 /* 16.Project 1 (pictures) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6B52C27C2DB3FEE200E97B65 /* Build configuration list for PBXNativeTarget "16. Setting up (UIKit)" */;
+			buildConfigurationList = 6B52C27C2DB3FEE200E97B65 /* Build configuration list for PBXNativeTarget "16.Project 1 (pictures)" */;
 			buildPhases = (
 				6B52C2652DB3FEDD00E97B65 /* Sources */,
 				6B52C2662DB3FEDD00E97B65 /* Frameworks */,
@@ -115,13 +115,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				6B52C26B2DB3FEDD00E97B65 /* 16. Setting up (UIKit) */,
+				6B52C26B2DB3FEDD00E97B65 /* 16.Project 1 (pictures) */,
 			);
-			name = "16. Setting up (UIKit)";
+			name = "16.Project 1 (pictures)";
 			packageProductDependencies = (
 			);
 			productName = "16. Setting up (UIKit)";
-			productReference = 6B52C2692DB3FEDD00E97B65 /* 16. Setting up (UIKit).app */;
+			productReference = 6B52C2692DB3FEDD00E97B65 /* 16.Project 1 (pictures).app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -139,7 +139,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6B52C2642DB3FEDD00E97B65 /* Build configuration list for PBXProject "16. Setting up (UIKit)" */;
+			buildConfigurationList = 6B52C2642DB3FEDD00E97B65 /* Build configuration list for PBXProject "16.Project 1 (pictures)" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -153,7 +153,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6B52C2682DB3FEDD00E97B65 /* 16. Setting up (UIKit) */,
+				6B52C2682DB3FEDD00E97B65 /* 16.Project 1 (pictures) */,
 			);
 		};
 /* End PBXProject section */
@@ -198,7 +198,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = Z4PKJ57KTJ;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "16. Setting up (UIKit)/Info.plist";
+				INFOPLIST_FILE = "16.Project 1 (pictures)/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -226,7 +226,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = Z4PKJ57KTJ;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "16. Setting up (UIKit)/Info.plist";
+				INFOPLIST_FILE = "16.Project 1 (pictures)/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -367,7 +367,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6B52C2642DB3FEDD00E97B65 /* Build configuration list for PBXProject "16. Setting up (UIKit)" */ = {
+		6B52C2642DB3FEDD00E97B65 /* Build configuration list for PBXProject "16.Project 1 (pictures)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6B52C27F2DB3FEE200E97B65 /* Debug */,
@@ -376,7 +376,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6B52C27C2DB3FEE200E97B65 /* Build configuration list for PBXNativeTarget "16. Setting up (UIKit)" */ = {
+		6B52C27C2DB3FEE200E97B65 /* Build configuration list for PBXNativeTarget "16.Project 1 (pictures)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6B52C27D2DB3FEE200E97B65 /* Debug */,
